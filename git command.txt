@@ -1,0 +1,46 @@
+dir  //directory check krne k liye k kitni file hai as directory mai.
+
+git init // as ka mtlb h k hmre as folder mai git k repositery create ho gye h.
+
+git status // ye command bar bar use ho gey jb b changing ae gey to as command se check kren gy.
+
+(git mai master branch hmesha majod hti hai)
+
+git add . // file ko git mai add krne k liye. git k repositery ka hisa bn jyn gey.
+
+git commit -m //git mai changes ka pta lgne k liye k kia kia changes hoe hai(git commit -m "add file git command.txt").
+
+git log // git log branch btata h kis branch mai ap k file work kr ri hai.
+
+commit hash // jb bht se log ak he file pe km kr rhe hn to hr ksi ka alg alg hash number hta h jis se pta chlta h k ye line ya ye changing kis ne k hai.
+
+git reset  // jb koi file stage k ho or ap chte hai k file unstage ho jae ye tb ho ga jb ye commit ni hoe hn gey.maslan 4 file ap ne stage kr dn hai jb k krni 2 file thn.(git add .) se file stage hti hai yhi pe agr git reset kren gy to ye unstage ho jyn gey.
+
+git reset --hard // sirf ye unstage ni kre ga balke git k file mai jo changing k then wo remove hn gey (syage file ho ya an ho ye file k andr k change ko remove kr deta h).
+
+.gitignore // kis file ko hm ne git ka hisa na bnana ho us k liye (.gitignore) k file bna k us mai us file ka name pora enter kren gy or agr hm chte hai k (.txt) wali koi b file hisa na bne ya (.exel) k koi file hisa na bne to (*.txt) as se .txt k sari file ignore hn gey.(echo ""> .gitignore).jha ignore k file bnani ho git mai ja ye command likne se bn jae gey.
+
+
+git branch // se branches ka list pta chlti h k kitni branch hai.
+
+git branch -v//as se last commit ka pta chlta h kb hwa tha.
+
+git branch(name)// git mai master k elwa brach bnani ho to ase bne gey(git branch dev) dev branch ka name h
+
+git checkout dev// as se hm master branch se dev branch mai shift ho gye mtlb branch shift k liye.
+
+git log master..dev// as se dekha jta h k kia kia changes ae hai.as mai pta chle ga master k mukable mai dev mai ye ye aditional commit hai.
+
+git merge dev // as se dono branch k file marge ho jyn gey master k file dev mai or dev k file master mai show hn gey likn master k changes dev mai show ni hn gy.
+
+git commit -m "update (filename).txt// as se file mai ko changes k hai update ho jyn gey.
+
+git merge master // maslan dev mai changes k hai to as command se dev mai khre ho k master k changes ko merge kren gy.
+
+git stash // koi km kr rhe hai or ksi wja se kam adhora kam chor k ksi or branch mai kam krne lg jte hai to us adhore kam ko commit kiye bger wahi pe rok k stash kren gy or jb mrzi whi se dubra strt kr dn gy.
+
+
+
+
+
+
