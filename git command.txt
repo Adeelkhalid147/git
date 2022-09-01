@@ -49,7 +49,7 @@ git push // git hub mai clone krne k bd as command se push krne se file git hub 
 
 git fetch //github pe jo file h us mai changes hoe hai to as command se fetch kren gy likn wo changes local system pe nzr ni ayn gy us k liye git merge krna pre ga phr nzr ayn gy.
 
- 
+git pull // jse k as line ko githab mai edit kr k likha h to ye changes yhi hn gy in ko system k file mai add krne k liye git pull k command use ho gey phr ye changes us file mai add hn gy.
 
 
 
