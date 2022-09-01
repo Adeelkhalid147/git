@@ -39,6 +39,18 @@ git merge master // maslan dev mai changes k hai to as command se dev mai khre h
 
 git stash // koi km kr rhe hai or ksi wja se kam adhora kam chor k ksi or branch mai kam krne lg jte hai to us adhore kam ko commit kiye bger wahi pe rok k stash kren gy or jb mrzi whi se dubra strt kr dn gy.
 
+cd .. // as command se ak folder back ayn gy maslan agr ap D:git:Command mai hai to cd .. se ap D:git mai ajyn gy.
+
+cd (folder name) // as se hm ne jis folder mai jna ho us cd name likh k ja skte hai.
+
+git clone URL // git hub pe phle new repositery bnyen gy us ka URL copy kr k jis jgha folder bnana h waha cmd open kren y or (git clone URL) paste kren gy to khud he ak folder bn jae ga. 
+
+git push // git hub mai clone krne k bd as command se push krne se file git hub mai push ho gey or jo kuch b likha ho ga file mai wo b show ho ga.
+
+git fetch //github pe jo file h us mai changes hoe hai to as command se fetch kren gy likn wo changes local system pe nzr ni ayn gy us k liye git merge krna pre ga phr nzr ayn gy.
+
+ 
+
 
 
 
